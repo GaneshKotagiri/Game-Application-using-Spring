@@ -2,7 +2,7 @@ package com.myFirst.firstsApplication.game;
 
 public class GameRunnable {
 	GamingConsole game;
-
+	
 	public GameRunnable(GamingConsole game) {
 		
 		this.game=game;
